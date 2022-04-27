@@ -1,0 +1,8 @@
+*<net6.0>(452660 bytes) 
+--cmd.exe (278528 bytes)
+--Fout.deps.json (404 bytes)
+--Fout.dll (11264 bytes)
+--Fout.exe (148992 bytes)
+--Fout.pdb (13132 bytes)
+--Fout.runtimeconfig.json (147 bytes)
+--sizes-2022-04-27.txt (193 bytes)

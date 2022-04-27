@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\testtasks\testFileOutput\Fout\Fout\bin\Debug\net6.0\Fout.exe
+C:\Users\user\Desktop\testtasks\testFileOutput\Fout\Fout\bin\Debug\net6.0\Fout.deps.json
+C:\Users\user\Desktop\testtasks\testFileOutput\Fout\Fout\bin\Debug\net6.0\Fout.runtimeconfig.json
+C:\Users\user\Desktop\testtasks\testFileOutput\Fout\Fout\bin\Debug\net6.0\Fout.dll
+C:\Users\user\Desktop\testtasks\testFileOutput\Fout\Fout\bin\Debug\net6.0\Fout.pdb
+C:\Users\user\Desktop\testtasks\testFileOutput\Fout\Fout\obj\Debug\net6.0\Fout.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\testtasks\testFileOutput\Fout\Fout\obj\Debug\net6.0\Fout.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\testtasks\testFileOutput\Fout\Fout\obj\Debug\net6.0\Fout.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\testtasks\testFileOutput\Fout\Fout\obj\Debug\net6.0\Fout.AssemblyInfo.cs
+C:\Users\user\Desktop\testtasks\testFileOutput\Fout\Fout\obj\Debug\net6.0\Fout.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\testtasks\testFileOutput\Fout\Fout\obj\Debug\net6.0\Fout.dll
+C:\Users\user\Desktop\testtasks\testFileOutput\Fout\Fout\obj\Debug\net6.0\refint\Fout.dll
+C:\Users\user\Desktop\testtasks\testFileOutput\Fout\Fout\obj\Debug\net6.0\Fout.pdb
+C:\Users\user\Desktop\testtasks\testFileOutput\Fout\Fout\obj\Debug\net6.0\Fout.genruntimeconfig.cache
+C:\Users\user\Desktop\testtasks\testFileOutput\Fout\Fout\obj\Debug\net6.0\ref\Fout.dll
